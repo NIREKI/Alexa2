@@ -1,0 +1,14 @@
+{
+  "name": "lampe",
+  "version": "1.0.0",
+  "description": "Skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Niklas Kinze",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^4.2.3"
+  }
+}
