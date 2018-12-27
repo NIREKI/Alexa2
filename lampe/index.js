@@ -3,8 +3,7 @@ module.change_code = 1;
 //Skill als Skill festlegen
 var alexa = require( 'alexa-app' );
 var app = new alexa.app( 'lampe' );
-//App id von "lampe"
-app.id = "amzn1.ask.skill.8bbdfce1-1a21-4d0c-a817-251916573f4a";
+
 //Begrüßungsnachricht
 app.launch( function(req, res) {
 	res.say('Wie kann ich helfen?');
